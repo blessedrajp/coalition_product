@@ -1,0 +1,20 @@
+.seperator-parent{
+    max-width: 100%;
+    padding:0px 80px;
+}
+.seperator{
+    display: flex;
+    gap:50px;
+    padding-top:40px;
+}
+.add{
+    /* border:1px solid black; */
+    padding: 30px;
+    width:400px;
+    /* background-color: antiquewhite; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.table{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
